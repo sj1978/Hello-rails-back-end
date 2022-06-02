@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :messages
+  resources :messages, only: %i[index]
 
-  get 'messages/any', to: 'messages#show'
+ 
 end
