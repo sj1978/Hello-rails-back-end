@@ -2,7 +2,7 @@
 
 # Hello-rails-back-end
 
-> Ruby on Rails API  
+> Ruby on Rails API  tou be consumed  with this: [link to repository](https://github.com/sj1978/hello-react-front-end-.git)
 
 ## Built With
 
